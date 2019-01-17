@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of Mysti](https://photos.app.goo.gl/2T88Qu5QeXkKuksPA)
